@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## python addon for InfluxData / Telegraf
 
 You can use the [editor on GitHub](https://github.com/phlupp/fritztelegraf/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
