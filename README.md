@@ -5,4 +5,4 @@ this addon was insptred by [fetzerch/fritzcollectd](https://github.com/fetzerch/
 Dependencies
 ------------
 * Python 2.7+
-* `fritzconnection <https://bitbucket.org/kbr/fritzconnection>`__
+* _`fritzconnection <https://bitbucket.org/kbr/fritzconnection>`__
