@@ -19,10 +19,10 @@ Configuration
 -------------
 Add the following to your telegraf config (typically ``/etc/telegraf/telegraf.conf``):
 
-...
+```
 [[inputs.exec]]
   commands = [
         "/usr/local/bin/fritztelegraf.py"
   ]
   data_format = "influx"
-...
+```
